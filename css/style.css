@@ -966,6 +966,6 @@ a {
   min-width: 100%; }
 
 .gallery img {
-  min-width: 100%; }
+  max-width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
