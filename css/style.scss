@@ -447,11 +447,6 @@ $hover_color: #ec894d;
 
 .logo {
 	
-
-	&__link {
-
-	}
-
 	&__caption {
 		font-size: .8rem;
 		margin-top: 5px;
@@ -581,10 +576,6 @@ $hover_color: #ec894d;
 			padding-bottom: 50px;
 			padding-top: 20px;
 		}
-	}
-
-	&__header {
-		
 	}
 
 	&__title {
@@ -1431,10 +1422,6 @@ $hover_color: #ec894d;
 		margin: 0;
 	}
 
-	&__item {
-
-	}
-
 	&__icon {
 		margin-right: 5px;
 
@@ -1578,9 +1565,9 @@ $hover_color: #ec894d;
 }
 
 
-.lSAction > .lSNext {
-    //right: 54px;
-}
+// .lSAction > .lSNext {
+//     right: 54px;
+// }
 
  .lSSlideOuter .lSGallery li img {
     min-width: 100%;
@@ -1588,5 +1575,5 @@ $hover_color: #ec894d;
 
 
 .gallery img {
-	max-width: 100%;
+	max-width: 100%; 
 }
